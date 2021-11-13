@@ -6,4 +6,4 @@ tweets are real or not.
 - Grid search
 - Data filtering
 - Submit on Kaggle
-Discussion and Result are all in pdf file: Python Machine Learning Final Project.pdf
+- Discussion and Result are all in pdf file: Python Machine Learning Final Project.pdf
