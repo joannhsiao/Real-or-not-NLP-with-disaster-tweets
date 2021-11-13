@@ -1,4 +1,7 @@
 # Real-or-not-NLP-with-disaster-tweets
+<p>This is our final project for Machine Learning class</p>
+<p>Teammates: Joycelyn, Jason</p>
+
 - Goal: To determine whether the disasters mentioned within the input
 tweets are real or not.
 - Data analysis
